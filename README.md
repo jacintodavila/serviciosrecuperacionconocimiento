@@ -1,4 +1,4 @@
-# Servicos de Recuperación de Conocimiento en Internet (Programa del curso)
+# Servicios de Recuperación de Conocimiento en Internet (Programa del curso)
 
 Instructores: Jacinto Dávila y Melva Márquez
 Objetivo: Conocer los fundamentos conceptuales, técnicos y prácticos de las tecnologías para desarrollar y mantener  servicios de información y conocimiento en Internet.
